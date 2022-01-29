@@ -9,3 +9,8 @@ Given a weighted directed graph and a list of source vertices and a list of sink
 You can use C/C++/JAVA/Python to perform the above actions. Manage the input-output format as you think is necessary and sufficient.
 Deadline: Date of the viva. And the viva will held after the final. You will be notified about the date later.
 NO PLAGIARISM WILL BE TOLERATED. In the viva, you will be asked to explain your solution.
+
+For the answer: view the doc file. 
+The doc contains the code, output format required by the course instructor and the input file as well. 
+You just need to manipulate it on your own. 
+note: This is not the final version although I got 10 out of 10, the code may require refactoring.
